@@ -1,9 +1,11 @@
 # Human-Detection
 Neural Network based Human Detection in 2D color images with HOG features.
 
+
 Files uploaded :
-1. CV_hog.py - 
-2. Neural_network.py - 
+1. CV_hog_file.py.   - [HOG Feature computation of an input image] 
+2. Neural_network.py - [Customised Neural Network Classifier Ground-up Implementation]
+
 
 A complete implementation of Histogram of Oriented Gradients (HOG) feature and a Three-layer Perceptron(Neural Network) for detecting human in images involving the following steps -
 
